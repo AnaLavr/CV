@@ -1,0 +1,41 @@
+body {background-image: radial-gradient( rgb(81, 81, 245),rgb(235, 141, 235));} 
+        *{font-family:   Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        
+        align-items: center;
+        margin-left: 50px;
+        margin-right: 50px;
+        }
+        h1{
+                text-shadow: 1px 1px 10px rgb(77, 75, 175);
+                color:ivory;
+        }
+        ul{
+                list-style-position: inside;
+        }
+        
+       h1,h2,h3{
+               text-decoration-line: underline;
+               text-shadow:1px 1px 4px ivory;
+       }
+        img {
+                border: 10px solid blue;
+                border-radius: 200px;
+                height :300px;
+                width:300px;
+                box-shadow: 0 0 30px rgb(77, 75, 175);
+                align-items: center;
+                 }      
+        div{
+                background-image:  url("bckgrnd.jpg");
+               color:white;
+               
+                background-size: cover;
+                width: auto;
+                margin:auto;
+                border-radius: 40px;
+                border-color: 5px solid blue;
+                box-shadow:  0 0 10px rgb(77, 75, 175);
+                }
+
+          
